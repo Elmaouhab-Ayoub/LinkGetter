@@ -10,3 +10,9 @@ python3 main.py
 ________________________________________________________________________________
 how to install required modules (google and PyQt5) ?
 just google it !! (search in google)
+_________________________________________________________________________________
+https://github.com/TrikTrak-byte/LinkGetter/blob/main/Images/Capture.PNG
+#
+https://github.com/TrikTrak-byte/LinkGetter/blob/main/Images/Capture2.PNG
+#
+https://github.com/TrikTrak-byte/LinkGetter/blob/main/Images/Capture3.PNG
