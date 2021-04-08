@@ -1,6 +1,12 @@
 # LinkGetter
-This is programme with user interface to get links from google
+________________________________________________________________________________
+This is programme with user interface to get links from google.
+_______________________________________________________________________________
 If you when use LinkGetter.exe just run the programme
+
 if you when use main.py you should install google and PyQt5 modules 
-how to install required modules ?
+to run python file use command : 
+python3 main.py
+________________________________________________________________________________
+how to install required modules (google and PyQt5) ?
 just google it !! (search in google)
